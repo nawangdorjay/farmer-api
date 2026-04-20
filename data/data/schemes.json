@@ -1,0 +1,74 @@
+[
+  {
+    "name": "PM-KISAN (Pradhan Mantri Kisan Samman Nidhi)",
+    "type": "central",
+    "description": "₹6,000 per year direct income support to all farmer families with cultivable land, in 3 installments of ₹2,000.",
+    "eligibility": "All small and marginal farmer families with cultivable land. Up to 2 hectares in most states.",
+    "how_to_apply": "Register at pmkisan.gov.in or visit nearest CSC (Common Service Centre). Need Aadhaar, bank account, land documents.",
+    "keywords": ["income", "direct benefit", "money", "cash", "support", "installment", "payment"],
+    "link": "https://pmkisan.gov.in"
+  },
+  {
+    "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+    "type": "central",
+    "description": "Crop insurance at low premium. Farmer pays 1.5-5% of sum insured, rest shared by Centre and State.",
+    "eligibility": "All farmers growing notified crops in notified areas. Both loanee and non-loanee farmers.",
+    "how_to_apply": "Through bank (loanee farmers) or CSC/insurance company portal (non-loanee). Need land records, bank account, Aadhaar.",
+    "keywords": ["insurance", "crop loss", "natural disaster", "drought", "flood", "compensation", "damage"],
+    "link": "https://pmfby.gov.in"
+  },
+  {
+    "name": "Kisan Credit Card (KCC)",
+    "type": "central",
+    "description": "Low-interest credit facility for farming needs. Interest subvention of 2% available. Effective rate: 4% per annum.",
+    "eligibility": "All farmers — individual/joint borrowers, tenant farmers, sharecroppers, oral lessees.",
+    "how_to_apply": "Apply at any nationalized bank, cooperative bank, or RRB. Need land records, Aadhaar, passport photo.",
+    "keywords": ["loan", "credit", "bank", "interest", "money", "finance", "borrow"],
+    "link": null
+  },
+  {
+    "name": "Soil Health Card Scheme",
+    "type": "central",
+    "description": "Free soil testing and recommendations for farmers. Get nutrient status of your soil and fertilizer recommendations.",
+    "eligibility": "All farmers.",
+    "how_to_apply": "Visit nearest Krishi Vigyan Kendra (KVK) or Soil Testing Lab. Submit soil samples as per instructions.",
+    "keywords": ["soil", "testing", "fertilizer", "nutrient", "lab", "health"],
+    "link": "https://soilhealth.dac.gov.in"
+  },
+  {
+    "name": "Subsidy on Agricultural Machinery",
+    "type": "central",
+    "description": "Subsidies of 25-50% on farm machinery — tractors, sprayers, seed drills, power tillers, drip/sprinkler irrigation, etc.",
+    "eligibility": "Small/marginal farmers get higher subsidy. SC/ST/women farmers get priority.",
+    "how_to_apply": "Apply through State Agriculture Department or DBT Agriculture portal. Check state-specific schemes.",
+    "keywords": ["machine", "equipment", "tractor", "sprayer", "drip", "sprinkler", "subsidy", "buy", "purchase"],
+    "link": "https://agrimachinery.nic.in"
+  },
+  {
+    "name": "National Mission for Sustainable Agriculture (NMSA)",
+    "type": "central",
+    "description": "Promotes climate-resilient agriculture — water-use efficiency, soil health management, nutrient management, and rainfed farming.",
+    "eligibility": "Farmers in identified districts.",
+    "how_to_apply": "Through State Agriculture Department. Includes components like Per Drop More Crop, Rainfed Area Development.",
+    "keywords": ["sustainable", "organic", "climate", "rainfed", "water saving", "drip"],
+    "link": null
+  },
+  {
+    "name": "eNAM (Electronic National Agriculture Market)",
+    "type": "central",
+    "description": "Online trading platform connecting APMC mandis across India. Better price discovery, transparent auction.",
+    "eligibility": "All farmers, traders, FPOs.",
+    "how_to_apply": "Register at enam.gov.in. Can sell through nearest eNAM-linked mandi.",
+    "keywords": ["sell", "market", "price", "mandi", "trade", "online", "auction"],
+    "link": "https://enam.gov.in"
+  },
+  {
+    "name": "PM Kusum (Solar Pump & Power)",
+    "type": "central",
+    "description": "Solar pumps and solarization of agricultural connections. Subsidy up to 60% on solar pumps. Sell surplus power to grid.",
+    "eligibility": "Individual farmers, cooperatives, FPOs, water user associations.",
+    "how_to_apply": "Apply through State Nodal Agency or online portal.",
+    "keywords": ["solar", "pump", "electricity", "power", "energy", "irrigation", "subsidy"],
+    "link": "https://pmkusum.mnre.gov.in"
+  }
+]

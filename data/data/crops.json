@@ -1,0 +1,203 @@
+{
+  "rice": {
+    "name": "Rice (चावल)",
+    "seasons": ["Kharif (Jun-Nov)", "Rabi (Nov-Mar) in some regions"],
+    "soil": "Clayey loam, alluvial soil. pH 5.5-7.0. Water-retentive.",
+    "water_needs": "high",
+    "water_note": "Requires standing water during most growth stages. 1200-1800mm rainfall needed.",
+    "temperature": "20-35°C ideal. Sensitive to frost.",
+    "varieties": {
+      "north_india": ["PB 1509", "Pusa Basmati 1121", "PR 126", "KRH-2"],
+      "south_india": ["BPT 5204", "MTU 1010", "Swarna", "Tellahamsa"],
+      "east_india": ["Swarna-Sub1", "Sahbhagi Dhan", "Lalat"]
+    },
+    "sowing": "June-July (Kharif), Nov-Dec (Rabi in South)",
+    "harvest": "October-November (Kharif), April-May (Rabi)",
+    "yield_avg": "2.5-4 tonnes/hectare",
+    "tips": [
+      "Use certified seeds — 40-50 kg/hectare for direct seeding",
+      "Maintain 2-3 seedlings per hill for transplanted rice",
+      "Apply nitrogen in 3 splits: basal, tillering, panicle initiation",
+      "Drain field 10-15 days before harvest for grain drying",
+      "For SRI method: transplant single seedlings at 8-12 days, wider spacing"
+    ]
+  },
+  "wheat": {
+    "name": "Wheat (गेहूं)",
+    "seasons": ["Rabi (Oct-Mar)"],
+    "soil": "Loam to clay loam. Well-drained. pH 6.0-7.5.",
+    "water_needs": "moderate",
+    "water_note": "4-6 irrigations needed. Critical at CRI, tillering, flowering stages.",
+    "temperature": "20-25°C during growing season. Cool during grain filling.",
+    "varieties": {
+      "north_india": ["HD 3226", "WH 147", "DBW 187", "PBW 725", "HD 3086"],
+      "central_india": ["GW 322", "MP 1285", "HI 1563"]
+    },
+    "sowing": "October-November (optimal: mid-November)",
+    "harvest": "March-April",
+    "yield_avg": "3-5 tonnes/hectare",
+    "tips": [
+      "Sow timely — each week delay after Nov 15 loses ~50 kg/ha yield",
+      "Seed rate: 100 kg/ha for normal, 125 kg/ha for late sowing",
+      "First irrigation 21 days after sowing (CRI stage) is critical",
+      "Apply 1/3 N + full P&K as basal. Remaining N in 2 splits.",
+      "Spray Mancozeb if rust spots appear on leaves"
+    ]
+  },
+  "cotton": {
+    "name": "Cotton (कपास)",
+    "seasons": ["Kharif (Apr-Oct)"],
+    "soil": "Black soil (regur), alluvial soil. Well-drained. pH 6.0-8.0.",
+    "water_needs": "moderate",
+    "water_note": "600-1000mm. Avoid waterlogging. Drip irrigation saves 40-50% water.",
+    "temperature": "25-35°C. Needs 160-200 frost-free days.",
+    "varieties": {
+      "north_india": ["Bt Cotton hybrids", "RCH 659", "MRC 7377"],
+      "central_india": ["NHH 44", "Bunny Bt", "RCH 2 BG-II"],
+      "south_india": ["Suraj", "Sahana", "DCH-32"]
+    },
+    "sowing": "April-May (North), June-July (South/Central)",
+    "harvest": "October-December (multiple pickings)",
+    "yield_avg": "1.5-2.5 quintals/hectare (lint)",
+    "tips": [
+      "Maintain 90x45 cm spacing for Bt hybrids",
+      "Apply 120:60:60 NPK/ha in black soil regions",
+      "Intercrop with short-duration pulses for extra income",
+      "Pick cotton in morning when bolls are fully open",
+      "Remove and destroy pink bollworm infested bolls"
+    ]
+  },
+  "sugarcane": {
+    "name": "Sugarcane (गन्ना)",
+    "seasons": ["Planted Oct-Mar, harvested 12-18 months"],
+    "soil": "Deep loam, well-drained, fertile. pH 6.0-7.5.",
+    "water_needs": "high",
+    "water_note": "1500-2500mm. Heavy irrigation needed. Drip saves 30-40%.",
+    "temperature": "20-35°C. Optimal growth at 28-30°C.",
+    "varieties": {
+      "north_india": ["Co 0238", "CoLk 94184", "Co 0118", "CoS 95255"],
+      "south_india": ["Co 86032", "Co 94012", "CoC 671"],
+      "west_india": ["Co 94012", "CoM 0265"]
+    },
+    "sowing": "October-November (autumn), February-March (spring)",
+    "harvest": "12-18 months after planting",
+    "yield_avg": "60-100 tonnes/hectare",
+    "tips": [
+      "Use 3-budded setts from disease-free seed cane",
+      "Apply 275:115:115 NPK/ha for high-yielding varieties",
+      "Ratoon management: remove dead stalks, apply fertilizer early",
+      "Trash mulching conserves moisture and adds organic matter",
+      "Get sugarcane slip/weight receipt at the mill for payment"
+    ]
+  },
+  "maize": {
+    "name": "Maize (मक्का)",
+    "seasons": ["Kharif (Jun-Sep)", "Rabi (Oct-Feb)", "Spring (Jan-Apr)"],
+    "soil": "Well-drained loam to sandy loam. pH 5.8-8.0.",
+    "water_needs": "moderate",
+    "water_note": "500-800mm. Critical stages: tasseling and grain filling.",
+    "temperature": "25-30°C. Frost-sensitive. Needs warm soil for germination.",
+    "varieties": {
+      "north_india": ["HQPM-1", "Vivek QPM-9", "Pioneer 3522", "Bio 9681"],
+      "south_india": ["NK 6240", "900M Gold", "P3522"]
+    },
+    "sowing": "June-July (Kharif), October (Rabi), January (Spring)",
+    "harvest": "September-October (Kharif), Feb-March (Rabi)",
+    "yield_avg": "3-6 tonnes/hectare",
+    "tips": [
+      "Seed rate: 20-25 kg/ha. Row spacing: 60x20 cm",
+      "Apply 120:60:40 NPK/ha. Full P&K + 1/3 N as basal",
+      "Earthing up at 30-35 days prevents lodging",
+      "Harvest when husks are dry and grains are hard",
+      "Dry grains to 12-14% moisture for safe storage"
+    ]
+  },
+  "mustard": {
+    "name": "Mustard (सरसों)",
+    "seasons": ["Rabi (Oct-Mar)"],
+    "soil": "Sandy loam to clay loam. Well-drained. pH 6.0-7.5.",
+    "water_needs": "low",
+    "water_note": "300-400mm. 1-2 irrigations at critical stages.",
+    "temperature": "15-25°C during growing season.",
+    "varieties": {
+      "north_india": ["RH 0749", "DRMRIJ 31", "NRCHB 101", "Pusa Bold"]
+    },
+    "sowing": "October-November",
+    "harvest": "February-March",
+    "yield_avg": "1.0-1.5 tonnes/hectare",
+    "tips": [
+      "Seed rate: 5-6 kg/ha. Row spacing: 30 cm",
+      "Irrigate at sowing, branching, and pod formation stages",
+      "Aphid is the major pest — spray Dimethoate if infestation >5/plant",
+      "Harvest when lower pods turn brown and start shattering",
+      "Dry on tarpaulin, not bare ground, to maintain oil quality"
+    ]
+  },
+  "tomato": {
+    "name": "Tomato (टमाटर)",
+    "seasons": ["Year-round (varies by region)", "Kharif: Jun-Jul, Rabi: Oct-Nov, Spring: Jan-Feb"],
+    "soil": "Well-drained sandy loam to clay. pH 6.0-7.0. Rich in organic matter.",
+    "water_needs": "moderate",
+    "water_note": "600-800mm. Drip irrigation recommended. Avoid waterlogging.",
+    "temperature": "20-30°C. Doesn't set fruit above 40°C or below 10°C.",
+    "varieties": {
+      "north_india": ["Pusa Ruby", "Himsona", "Arka Rakshak", "HS 102"],
+      "south_india": ["CO 3", "Arka Vikas", "PKM 1"]
+    },
+    "sowing": "Varies by season (see above)",
+    "harvest": "60-90 days after transplanting",
+    "yield_avg": "25-40 tonnes/hectare",
+    "tips": [
+      "Transplant 25-30 day old seedlings",
+      "Staking increases yield by 20-30% and reduces disease",
+      "Apply Calcium spray to prevent blossom end rot",
+      "Harvest at breaker stage for long-distance transport",
+      "Crop rotation with non-solanaceous crops prevents wilt"
+    ]
+  },
+  "potato": {
+    "name": "Potato (आलू)",
+    "seasons": ["Rabi (Oct-Mar) in plains", "Summer (Mar-Jun) in hills"],
+    "soil": "Sandy loam, well-drained, loose. pH 5.5-6.5.",
+    "water_needs": "moderate",
+    "water_note": "500-600mm. Light, frequent irrigation. No waterlogging.",
+    "temperature": "15-22°C. Tuber initiation below 20°C.",
+    "varieties": {
+      "north_india": ["Kufri Jyoti", "Kufri Pukhraj", "Kufri Chipsona-3", "Kufri Surya"],
+      "east_india": ["Kufri Chandramukhi", "Kufri Jyoti"]
+    },
+    "sowing": "October-November (plains)",
+    "harvest": "90-120 days after planting",
+    "yield_avg": "20-35 tonnes/hectare",
+    "tips": [
+      "Use 40-50 g seed tubers. Cut large tubers keeping 2-3 eyes each",
+      "Seed rate: 25-30 quintals/ha",
+      "Earthing up twice — at 25 and 45 days after planting",
+      "Sprout inhibitor (Isopropyl N-chlorophenoxy acetate) for stored potatoes",
+      "Store in cool, dark, ventilated place. Check weekly for rot."
+    ]
+  },
+  "onion": {
+    "name": "Onion (प्याज)",
+    "seasons": ["Kharif (Jun-Oct)", "Rabi (Nov-Apr)", "Late Kharif (Sep-Jan)"],
+    "soil": "Sandy loam to medium black soil. Well-drained. pH 6.0-7.5.",
+    "water_needs": "moderate",
+    "water_note": "600-700mm. Critical: bulb initiation and development.",
+    "temperature": "25-30°C for growth, 15-25°C for bulb formation.",
+    "varieties": {
+      "north_india": ["Agrifound Light Red", "Pusa Red", "N-53"],
+      "south_india": ["Agrifound Dark Red", "Bhima Super", "Bhima Shakti"],
+      "western": ["Nasik Red", "Agrifound Rose", "Bhima Red"]
+    },
+    "sowing": "June-July (Kharif), October-November (Rabi)",
+    "harvest": "100-120 days after transplanting",
+    "yield_avg": "25-40 tonnes/hectare",
+    "tips": [
+      "Transplant 6-8 week old seedlings. 15x10 cm spacing.",
+      "Reduce irrigation 15 days before harvest for better storage",
+      "Cure bulbs in shade for 4-5 days after harvest",
+      "Store in well-ventilated, dry place on raised platforms",
+      "Nasik-type onions store 4-6 months. Bellary-type: 2-3 months."
+    ]
+  }
+}

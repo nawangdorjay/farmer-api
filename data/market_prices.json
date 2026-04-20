@@ -1,0 +1,145 @@
+{
+  "rice": {
+    "national_avg": 2100,
+    "unit": "per quintal",
+    "range": "1800-2500",
+    "trend": "stable",
+    "state_prices": {
+      "punjab": 2250,
+      "haryana": 2200,
+      "uttar pradesh": 2100,
+      "west bengal": 1950,
+      "andhra pradesh": 2050,
+      "telangana": 2050,
+      "tamil nadu": 2000,
+      "odisha": 1900,
+      "bihar": 1950,
+      "chhattisgarh": 1900,
+      "madhya pradesh": 2050,
+      "karnataka": 2100,
+      "kerala": 2300,
+      "assam": 1950
+    }
+  },
+  "wheat": {
+    "national_avg": 2275,
+    "unit": "per quintal",
+    "range": "2100-2400",
+    "trend": "rising",
+    "state_prices": {
+      "punjab": 2350,
+      "haryana": 2300,
+      "uttar pradesh": 2250,
+      "madhya pradesh": 2275,
+      "rajasthan": 2250,
+      "bihar": 2200,
+      "gujarat": 2300
+    }
+  },
+  "cotton": {
+    "national_avg": 6500,
+    "unit": "per quintal",
+    "range": "5500-7500",
+    "trend": "volatile",
+    "state_prices": {
+      "maharashtra": 6200,
+      "gujarat": 6800,
+      "telangana": 6400,
+      "andhra pradesh": 6400,
+      "punjab": 6600,
+      "haryana": 6600,
+      "rajasthan": 6500,
+      "karnataka": 6300,
+      "madhya pradesh": 6200
+    }
+  },
+  "sugarcane": {
+    "national_avg": 340,
+    "unit": "per quintal (FRP)",
+    "range": "305-380",
+    "trend": "stable",
+    "state_prices": {
+      "uttar pradesh": 350,
+      "maharashtra": 340,
+      "karnataka": 340,
+      "punjab": 360,
+      "gujarat": 340,
+      "tamil nadu": 330,
+      "bihar": 340
+    }
+  },
+  "maize": {
+    "national_avg": 2150,
+    "unit": "per quintal",
+    "range": "1900-2400",
+    "trend": "rising",
+    "state_prices": {
+      "karnataka": 2200,
+      "madhya pradesh": 2100,
+      "bihar": 2050,
+      "rajasthan": 2100,
+      "uttar pradesh": 2150,
+      "andhra pradesh": 2200,
+      "telangana": 2200,
+      "maharashtra": 2100
+    }
+  },
+  "mustard": {
+    "national_avg": 5450,
+    "unit": "per quintal (MSP)",
+    "range": "5000-5800",
+    "trend": "stable",
+    "state_prices": {
+      "rajasthan": 5450,
+      "haryana": 5400,
+      "madhya pradesh": 5350,
+      "uttar pradesh": 5400,
+      "gujarat": 5450,
+      "west bengal": 5300
+    }
+  },
+  "tomato": {
+    "national_avg": 2500,
+    "unit": "per quintal",
+    "range": "800-5000",
+    "trend": "highly_volatile",
+    "note": "Tomato prices swing dramatically by season and region. Check local mandi daily.",
+    "state_prices": {
+      "karnataka": 2200,
+      "andhra pradesh": 2000,
+      "maharashtra": 2500,
+      "madhya pradesh": 2300,
+      "west bengal": 2400,
+      "gujarat": 2500
+    }
+  },
+  "potato": {
+    "national_avg": 1200,
+    "unit": "per quintal",
+    "range": "600-1800",
+    "trend": "seasonal",
+    "state_prices": {
+      "uttar pradesh": 1100,
+      "west bengal": 1000,
+      "bihar": 1050,
+      "punjab": 1200,
+      "gujarat": 1300,
+      "madhya pradesh": 1150
+    }
+  },
+  "onion": {
+    "national_avg": 2000,
+    "unit": "per quintal",
+    "range": "500-5000",
+    "trend": "highly_volatile",
+    "note": "Onion prices are extremely seasonal and sensitive to supply disruptions.",
+    "state_prices": {
+      "maharashtra": 1800,
+      "karnataka": 2000,
+      "rajasthan": 2200,
+      "gujarat": 2000,
+      "madhya pradesh": 1900,
+      "andhra pradesh": 2100
+    }
+  }
+}

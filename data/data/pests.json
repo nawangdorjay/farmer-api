@@ -1,0 +1,142 @@
+{
+  "rice": [
+    {
+      "name": "Brown Planthopper (BPH)",
+      "symptoms_keywords": ["hopper burn", "yellowing", "drying", "insects at base"],
+      "symptoms": "Plants turn yellow and dry in patches. Small brown insects at base of plants. 'Hopper burn' — circular dead patches.",
+      "treatment": [
+        "Remove excess nitrogen fertilization",
+        "Drain field for 3-4 days",
+        "Spray Imidacloprid 17.8 SL @ 100ml/ha or Buprofezin 25 SC @ 500ml/ha",
+        "Encourage natural predators: spiders, mirid bugs",
+        "Avoid synchronous planting in large areas"
+      ]
+    },
+    {
+      "name": "Blast (Magnaporthe oryzae)",
+      "symptoms_keywords": ["diamond spots", "grey spots", "neck blast", "white lesions"],
+      "symptoms": "Diamond-shaped grey lesions on leaves with dark borders. Neck blast causes white, broken panicles.",
+      "treatment": [
+        "Use resistant varieties (check local recommendations)",
+        "Avoid excess nitrogen",
+        "Spray Tricyclazole 75 WP @ 0.6g/L or Isoprothiolane 40 EC @ 1.5ml/L",
+        "Maintain balanced nutrition — excess N makes it worse",
+        "Destroy crop residue after harvest"
+      ]
+    },
+    {
+      "name": "Sheath Blight",
+      "symptoms_keywords": ["oval spots", "sheath", "water soaked", "greenish grey"],
+      "symptoms": "Oval or irregular greenish-grey lesions on leaf sheath, near water line. Lesions enlarge and merge.",
+      "treatment": [
+        "Wider spacing for air circulation",
+        "Avoid deep water stagnation",
+        "Spray Validamycin 3% L @ 2ml/L or Hexaconazole 5 EC @ 2ml/L",
+        "Reduce plant density",
+        "Balanced fertilizer — avoid excess N"
+      ]
+    }
+  ],
+  "wheat": [
+    {
+      "name": "Rust (Yellow, Brown, Black)",
+      "symptoms_keywords": ["orange pustules", "yellow spots", "brown streaks", "rust"],
+      "symptoms": "Yellow/brown/black powdery pustules on leaves in rows. Yellow rust most common in North India.",
+      "treatment": [
+        "Grow resistant varieties (check current recommended list)",
+        "Spray Propiconazole 25 EC @ 1ml/L at first sign",
+        "Spray Tebuconazole 250 EC @ 1ml/L as alternative",
+        "Early sowing helps avoid late rust",
+        "Remove volunteer wheat plants"
+      ]
+    },
+    {
+      "name": "Aphids",
+      "symptoms_keywords": ["green insects", "sticky", "curling leaves", "honeydew"],
+      "symptoms": "Small green/black insects on ear heads and upper leaves. Sticky honeydew. Sooty mold develops.",
+      "treatment": [
+        "Spray Dimethoate 30 EC @ 1ml/L",
+        "Spray at milky stage if >5 aphids per ear head",
+        "Encourage ladybird beetles (natural predator)",
+        "Avoid excessive irrigation in late season"
+      ]
+    }
+  ],
+  "cotton": [
+    {
+      "name": "Bollworm (American, Pink)",
+      "symptoms_keywords": ["holes in bolls", "caterpillar", "damaged bolls", "entry holes"],
+      "symptoms": "Small entry holes in squares/bolls. Caterpillars inside bolls. Damaged flowers and bolls drop.",
+      "treatment": [
+        "Install pheromone traps (5/ha) for monitoring",
+        "Spray Chlorantraniliprole 18.5 SC @ 0.4ml/L when threshold crossed",
+        "Hand-pick and destroy affected bolls",
+        "Avoid late-season irrigation that prolongs crop",
+        "Deep summer plowing to destroy pupae"
+      ]
+    },
+    {
+      "name": "Whitefly",
+      "symptoms_keywords": ["white flies", "sticky", "yellowing", "sooty mold", "leaf curl"],
+      "symptoms": "Small white flies under leaves. Yellowing and leaf curling. Sooty mold on honeydew.",
+      "treatment": [
+        "Spray Thiamethoxam 25 WG @ 0.5g/L or Acetamiprid 20 SP @ 0.5g/L",
+        "Install yellow sticky traps (12/ha)",
+        "Avoid continuous cotton — rotate with non-host crops",
+        "Spray neem oil (1500 ppm) @ 3ml/L as organic option"
+      ]
+    }
+  ],
+  "tomato": [
+    {
+      "name": "Early Blight",
+      "symptoms_keywords": ["concentric rings", "target spots", "lower leaves", "brown spots"],
+      "symptoms": "Brown spots with concentric rings (target/bullseye pattern) on older leaves. Leaves turn yellow and drop.",
+      "treatment": [
+        "Remove and destroy affected lower leaves",
+        "Spray Mancozeb 75 WP @ 2.5g/L or Chlorothalonil 75 WP @ 2g/L",
+        "Mulch around plants to prevent soil splash",
+        "Maintain adequate spacing for air circulation",
+        "Crop rotation — avoid planting after potatoes/tomatoes"
+      ]
+    },
+    {
+      "name": "Late Blight",
+      "symptoms_keywords": ["water soaked", "white mold", "fungal growth", "rapid death"],
+      "symptoms": "Water-soaked dark green to brown spots. White fuzzy growth on undersides in humid conditions. Rapid plant death.",
+      "treatment": [
+        "Spray Metalaxyl + Mancozeb (Ridomil MZ) @ 2.5g/L preventively",
+        "Remove and destroy infected plants immediately",
+        "Avoid overhead irrigation",
+        "Ensure good drainage",
+        "Plant resistant varieties (Arka Rakshak, etc.)"
+      ]
+    },
+    {
+      "name": "Fruit Borer (Helicoverpa)",
+      "symptoms_keywords": ["holes in fruit", "caterpillar in tomato", "damaged fruits"],
+      "symptoms": "Small holes in fruits with caterpillar inside. Frass visible near entry hole. Damaged fruits rot.",
+      "treatment": [
+        "Install pheromone traps (5/ha) for monitoring",
+        "Spray Emamectin benzoate 5 SG @ 0.4g/L",
+        "Release Trichogramma egg parasitoid @ 50,000/ha",
+        "Hand-pick and destroy caterpillars in small plots",
+        "Intercrop with marigold as trap crop"
+      ]
+    }
+  ],
+  "potato": [
+    {
+      "name": "Late Blight (Phytophthora infestans)",
+      "symptoms_keywords": ["water soaked", "brown patches", "white mold", "tuber rot"],
+      "symptoms": "Water-soaked dark brown patches on leaves. White mold on underside. Tuber rot with reddish-brown dry rot.",
+      "treatment": [
+        "Spray Metalaxyl + Mancozeb (Ridomil MZ) @ 2.5g/L",
+        "Spray Cymoxanil + Mancozeb as alternative",
+        "Plant resistant varieties (Kufri Jyoti, Kufri Surya)",
+        "Avoid waterlogging — ensure good drainage",
+        "Destroy infected tubers — do not store"
+      ]
+    }
+  ]
+}

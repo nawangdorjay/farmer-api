@@ -1,0 +1,68 @@
+{
+  "north india": {
+    "rice": {
+      "kharif": {"sowing": "Jun 15 - Jul 15", "transplanting": "Jul 1 - Aug 15", "harvest": "Oct - Nov"},
+      "rabi": {"sowing": "Nov - Dec", "harvest": "Apr - May", "note": "Only in select irrigated areas of South"}
+    },
+    "wheat": {
+      "rabi": {"sowing": "Oct 25 - Nov 30", "first_irrigation": "21 days after sowing", "harvest": "Mar 15 - Apr 15"}
+    },
+    "mustard": {
+      "rabi": {"sowing": "Oct 1 - Oct 30", "irrigation": "Branching + Pod formation", "harvest": "Feb 15 - Mar 15"}
+    },
+    "maize": {
+      "kharif": {"sowing": "Jun 15 - Jul 15", "harvest": "Sep 15 - Oct 15"},
+      "rabi": {"sowing": "Oct 15 - Nov 15", "harvest": "Feb - Mar"}
+    },
+    "sugarcane": {
+      "autumn_planting": {"sowing": "Sep 15 - Oct 30", "harvest": "Dec (next year)"},
+      "spring_planting": {"sowing": "Feb 15 - Mar 30", "harvest": "Dec - Jan (next year)"}
+    },
+    "potato": {
+      "rabi": {"sowing": "Oct 15 - Nov 15", "earthing_up": "25 and 45 days", "harvest": "Jan 15 - Feb 28"}
+    },
+    "tomato": {
+      "rabi": {"sowing_nursery": "Sep 15 - Oct 15", "transplanting": "Oct 15 - Nov 15", "harvest": "Jan - Mar"}
+    }
+  },
+  "south india": {
+    "rice": {
+      "kharif": {"sowing": "Jun - Jul", "transplanting": "Jul - Aug", "harvest": "Oct - Nov"},
+      "rabi": {"sowing": "Oct - Nov", "transplanting": "Nov - Dec", "harvest": "Mar - Apr"}
+    },
+    "cotton": {
+      "kharif": {"sowing": "Jun - Jul", "harvest": "Oct - Dec"}
+    },
+    "sugarcane": {
+      "planting": {"sowing": "Jan - Mar (main) or Oct - Nov", "harvest": "12-18 months later"}
+    },
+    "tomato": {
+      "rabi": {"sowing_nursery": "Aug - Sep", "transplanting": "Sep - Oct", "harvest": "Dec - Feb"}
+    },
+    "onion": {
+      "rabi": {"sowing_nursery": "Oct - Nov", "transplanting": "Dec - Jan", "harvest": "Mar - Apr"}
+    }
+  },
+  "east india": {
+    "rice": {
+      "aus": {"sowing": "Mar - Apr", "harvest": "Jun - Jul"},
+      "aman": {"sowing": "Jun - Jul", "transplanting": "Jul - Aug", "harvest": "Nov - Dec"},
+      "boro": {"sowing_nursery": "Nov - Dec", "transplanting": "Jan - Feb", "harvest": "Apr - May"}
+    },
+    "jute": {
+      "sowing": "Mar - Apr", "harvest": "Jul - Aug"
+    }
+  },
+  "west india": {
+    "cotton": {
+      "kharif": {"sowing": "Jun 15 - Jul 15", "harvest": "Oct - Dec (multiple pickings)"}
+    },
+    "sugarcane": {
+      "planting": {"sowing": "Oct - Nov (suru) or Jan - Feb (adsali)", "harvest": "Dec - Mar (next year)"}
+    },
+    "onion": {
+      "kharif": {"sowing_nursery": "Jun - Jul", "transplanting": "Aug - Sep", "harvest": "Oct - Nov"},
+      "rabi": {"sowing_nursery": "Oct - Nov", "transplanting": "Dec - Jan", "harvest": "Mar - Apr"}
+    }
+  }
+}
