@@ -1,5 +1,7 @@
 # 🌾 Farmer Advisory API
 
+![Screenshot](screenshots/output.png)
+
 Production REST API for the Farmer Advisory Agent. Built with FastAPI.
 
 **This is the backend** — the Streamlit app is the demo layer. Real products need APIs.
